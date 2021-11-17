@@ -1,7 +1,3 @@
 <template>
-  <h1>Hi</h1>
+  <UnderConstruction></UnderConstruction>
 </template>
-
-<script>
-export default {}
-</script>
